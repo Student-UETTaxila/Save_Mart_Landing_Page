@@ -48,7 +48,7 @@ Open index.html in your browser.
 Customize as needed for your own use or learning.
 
 🌐 Live Preview
-
+ https://student-uettaxila.github.io/Save_Mart_Landing_Page/
 Live Demo
 
 📌 Purpose
